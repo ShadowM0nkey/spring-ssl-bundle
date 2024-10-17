@@ -1,4 +1,4 @@
-package dev.sagar.clientsslbundledemo.model;
+package dev.sagar.clientsslbundledemo;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

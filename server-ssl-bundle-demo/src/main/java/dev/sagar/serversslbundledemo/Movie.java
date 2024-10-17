@@ -1,4 +1,4 @@
-package dev.sagar.serversslbundledemo.model;
+package dev.sagar.serversslbundledemo;
 
 import java.time.LocalDate;
 

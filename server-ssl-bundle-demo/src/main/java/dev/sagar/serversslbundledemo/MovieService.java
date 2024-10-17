@@ -1,7 +1,6 @@
-package dev.sagar.serversslbundledemo.service;
+package dev.sagar.serversslbundledemo;
 
 
-import dev.sagar.serversslbundledemo.model.Movie;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Service;
 

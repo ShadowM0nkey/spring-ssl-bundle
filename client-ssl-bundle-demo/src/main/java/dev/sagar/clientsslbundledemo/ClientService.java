@@ -1,6 +1,6 @@
-package dev.sagar.clientsslbundledemo.service;
+package dev.sagar.clientsslbundledemo;
 
-import dev.sagar.clientsslbundledemo.model.Movie;
+import dev.sagar.clientsslbundledemo.Movie;
 import org.springframework.boot.autoconfigure.web.client.RestClientSsl;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.stereotype.Service;
